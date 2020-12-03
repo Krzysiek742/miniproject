@@ -16,7 +16,7 @@ public class Calculator {
                     "4. Division (/) \n");
 
             Scanner scanner = new Scanner(System.in);
-mmnnmmn
+
             try {
                 System.out.println("Enter an operator: (+ OR - OR * OR /) ");
                 char operation = scanner.next().charAt(0);
